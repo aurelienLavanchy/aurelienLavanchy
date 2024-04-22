@@ -9,6 +9,7 @@ After this, I want to learn :
 
 ![tools](https://skillicons.dev/icons?i=linux,git,vscode,visualstudio,pycharm,postman,figma)  
 ![tech stack](https://skillicons.dev/icons?i=html,css,js,nodejs,pnpm,bun,react,vite,express)  
+and a bit of python... (still learning the basics)
 
 <!--
 ## Socials
