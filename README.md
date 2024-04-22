@@ -1,16 +1,17 @@
-### Hi there 👋
+# Who am I ?
+
+Hi! I'm Aurélien Lavanchy  
+I'm currently following a [Wild Code School Bootcamp](https://www.wildcodeschool.com/fr-fr/formations-developpement-web/formation-developpeur-web-a-distance) to learn the basics of Web development  
+After this, I want to learn :  
+![typescript](https://skillicons.dev/icons?i=typescript,rust)
+
+## Tools / tech stack
+
+![tools](https://skillicons.dev/icons?i=linux,git,vscode,visualstudio,pycharm,postman,figma)  
+![tech stack](https://skillicons.dev/icons?i=html,css,js,nodejs,pnpm,bun,react,vite,express)  
 
 <!--
-**aurelienLavanchy/aurelienLavanchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Socials
+- LinkedIn (none yet)
+- Discord
 -->
